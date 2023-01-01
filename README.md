@@ -2,3 +2,7 @@
 
 # cryptography-quickstarts
 Cryptography quickstarts
+
+## Libraries support
+### Java
+- [Java implementation of NTRUEncrypt and NTRUSign | GitHub](https://github.com/tbuktu/ntru)
