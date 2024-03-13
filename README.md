@@ -6,3 +6,6 @@ Cryptography quickstarts
 ## Libraries support
 ### Java
 - [Java implementation of NTRUEncrypt and NTRUSign | GitHub](https://github.com/tbuktu/ntru)
+
+## Related Quickstarts
+- https://github.com/jnbdz/vault-quickstarts
